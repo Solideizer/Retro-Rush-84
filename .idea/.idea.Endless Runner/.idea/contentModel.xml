@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MSI\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MSI\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Endless Runner.1012571283.00" t="ExcludeRecursive" />
+    <e p="E:\Solideizer\Endless Runner" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Imports" t="Include">
+          <e p="Customizable Skybox" t="Include">
+            <e p="Stylized Sky" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Stylized Sky.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Invector-3rdPersonController_LITE" t="Include">
+            <e p="3D Models" t="Include">
+              <e p="Others" t="Include">
+                <e p="HealthItem" t="Include">
+                  <e p="vAnimateUV.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="README_Basic.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Camera" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vThirdPersonCameraEditor.cs" t="Include" />
+                </e>
+                <e p="vThirdPersonCamera.cs" t="Include" />
+              </e>
+              <e p="CharacterController" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="Resources" t="Include">
+                    <e p="vEditorStartupPrefs.cs" t="Include" />
+                  </e>
+                  <e p="vCharacterEditor.cs" t="Include" />
+                  <e p="vInvectorStartup.cs" t="Include" />
+                  <e p="vInvectorWelcomeWindow.cs" t="Include" />
+                  <e p="vThirdPersonInputEditor.cs" t="Include" />
+                </e>
+                <e p="vThirdPersonAnimator.cs" t="Include" />
+                <e p="vThirdPersonController.cs" t="Include" />
+                <e p="vThirdPersonInput.cs" t="Include" />
+                <e p="vThirdPersonMotor.cs" t="Include" />
+              </e>
+              <e p="CharacterCreator" t="Include">
+                <e p="Script" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vCreateBasicCharacterEditor.cs" t="Include" />
+                    <e p="vHelperEditor.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Generic" t="Include">
+                <e p="Utils" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vCommentEditor.cs" t="Include" />
+                  </e>
+                  <e p="vComment.cs" t="Include" />
+                  <e p="vExtensions.cs" t="Include" />
+                  <e p="vPickupItem.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AudioVisualization.cs" t="Include" />
+          <e p="CubeGenerator.cs" t="Include" />
+          <e p="RoadPooling.cs" t="Include" />
+        </e>
+        <e p="VisualizeAudio.cs" t="Include" />
+      </e>
+      <e p="Endless Runner.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
